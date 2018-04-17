@@ -1,5 +1,6 @@
 # nlstools 1.0-2.9000
 
+* Document with roxygen2, helped by [Rd2roxygen](https://yihui.name/rd2roxygen/)
 * Added a `NEWS.md` file to track changes to the package.
 
 # nlstools 1.0-2 2015-07-31 08:09 baty
